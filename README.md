@@ -1,6 +1,6 @@
 # Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bhuvan!
 
-I'm a Junior Undergraduate at IIT Bombay. I am interested in various fields of computer science and am currently working on a few projects of Deep learning, NLP and Full Stack Web Development
+I'm an Undergraduate at IIT Bombay. I am interested in various fields of computer science and am currently working on a few projects of Deep learning, NLP and Full Stack Web Development
 
 [![LinkedIn: BhuvanAggarwal](https://img.shields.io/badge/-bhuvanaggarwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aggarwal-bhuvan/)](https://www.linkedin.com/in/aggarwal-bhuvan/)
 [![GitHub invisibleflame](https://img.shields.io/github/followers/invisibleflame?label=follow&style=social)](https://github.com/invisibleflame)
@@ -22,7 +22,6 @@ I'm a Junior Undergraduate at IIT Bombay. I am interested in various fields of c
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/materialize/materialize.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
