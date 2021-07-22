@@ -1,25 +1,21 @@
-### Hi there 👋
-# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Laxman!
+# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bhuvan!
 
-I'm a Junior Undergraduate at IIT Bombay. I love to explore different domains of computer science & have a keen interest in Deep Learning & Frontend Development.
+I'm a Junior Undergraduate at IIT Bombay. I am interested in various fields of computer science and am currently working on a few projects of Deep learning, NLP and Full Stack Web Development
 
 [![LinkedIn: BhuvanAggarwal](https://img.shields.io/badge/-laxmandesai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aggarwal-bhuvan/)](https://www.linkedin.com/in/aggarwal-bhuvan/)
 [![GitHub invisibleflame](https://img.shields.io/github/followers/invisibleflame?label=follow&style=social)](https://github.com/invisibleflame)
 
-- 🌱 I’m currently self-learning Full Stack Web Development, Deep Learning and Computer Vision.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: [bhuvanaggarwal9@gmail.com](mailto:bhuvanaggarwal9@gmail.com)
 - ❤️ Solving Problems & Open Source!
 
 ## Languages and Tools
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
