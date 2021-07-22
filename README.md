@@ -32,11 +32,11 @@ I'm a Junior Undergraduate at IIT Bombay. I am interested in various fields of c
 
 [![Bhuvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=invisibleflame&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/invisibleflame/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=invisibleflame&layout=compact&theme=tokyonight)](https://github.com/invisibleflame/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarghugarkar007&layout=compact&theme=tokyonight)](https://github.com/omkarghugarkar007/)
 
-<!-- ### Projects
+### Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=relaxxpls&repo=ResoBin&theme=tokyonight)](https://github.com/relaxxpls/ResoBin)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=relaxxpls&repo=StockPrediction&theme=tokyonight)](https://github.com/relaxxpls/StockPrediction)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=relaxxpls&repo=CPPMatrixLib&theme=tokyonight)](https://github.com/relaxxpls/CPPMatrixLib) -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=relaxxpls&repo=CPPMatrixLib&theme=tokyonight)](https://github.com/relaxxpls/CPPMatrixLib)
 
